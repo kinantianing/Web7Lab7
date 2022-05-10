@@ -306,7 +306,7 @@ Ini adalah hasil awal dari sintaks diatas :
 ![Gambar 10](screenshot/ss10.PNG) <br>
 
 ## B. Pernyataan dan Tugas
-### 1.Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan ! <br>
+### 1. Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan ! <br>
 
 Buatlah dokumen PHP dengan nama php_form.php seperti contoh dibawah ini : <br>
 ```
