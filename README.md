@@ -6,8 +6,8 @@
 **Matkul  : Pemrograman Web** <br>
 
 # Belajar PHP
-    1. Pastikan Xampp sudah terinstall dan server dapat berjalan dengan baik http://127.0.0.1 atau http://localhost
-    2. Tempatkan file website tempatkan di direktori: \xampp\htdocs\
+1. Pastikan Xampp sudah terinstall dan server dapat berjalan dengan baik http://127.0.0.1 atau http://localhost
+2. Tempatkan file website tempatkan di direktori: \xampp\htdocs\
 
 ## A. Pengenalan PHP
 ### 1. PHP Dasar
