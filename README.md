@@ -385,7 +385,7 @@ Ini adalah hasil awal dari sintaks diatas :
 ![Gambar 11a](screenshot/ss11a.PNG) <br>
 
 Kemudian isi data pada kolom input seperti dibawah ini : <br>
-![Gambar 4b](screenshot/ss4b.PNG) <br>
+![Gambar 11b](screenshot/ss11b.PNG) <br>
 
 Maka akan menjadi seperti dibawah ini : <br>
-![Gambar 4c](screenshot/ss4c.PNG) <br>
+![Gambar 11c](screenshot/ss11c.PNG) <br>
